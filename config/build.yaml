@@ -1,0 +1,10 @@
+telegram:
+  token: "token"
+database:
+  host: host ip
+  port: 5432
+  dbname: database name
+  user: user
+  password: password
+
+
